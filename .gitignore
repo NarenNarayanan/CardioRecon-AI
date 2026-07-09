@@ -1,0 +1,9 @@
+data/
+checkpoints/
+results/
+__pycache__/
+*.pyc
+*.pth
+.streamlit/
+*.egg-info/
+.env
