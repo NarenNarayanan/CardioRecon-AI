@@ -185,7 +185,8 @@ Our implementation is a simplified version inspired by the DeepSSL architecture,
 using a standard unrolled U-Net reconstruction network with physics-based data
 consistency, adapted for the CMRxRecon dataset format.
 
-- CMRxRecon Dataset: https://cmrxrecon.github.io/
-- DeepSSL Paper: https://ieeexplore.ieee.org/document/10960503
+- CMRxRecon Dataset: https://cmrxrecon.github.io/  
+                     https://www.synapse.org/Synapse:syn59814210/wiki/628454
+- DeepSSL Paper: [https://ieeexplore.ieee.org/document/10960503](https://ieeexplore.ieee.org/document/11016210)
 
 ---
